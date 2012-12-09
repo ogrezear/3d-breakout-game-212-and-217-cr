@@ -1,0 +1,1 @@
+int LoadBitmap(const char *filename);
